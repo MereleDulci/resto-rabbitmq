@@ -1,4 +1,4 @@
-module mereledulci.md/resto-rabbitmq
+module github.com/MereleDulci/resto-rabbitmq
 
 go 1.22.1
 
